@@ -5,10 +5,14 @@ title: Резюме
 <table>
   <tr>
     <th colspan="2">Основная информация</th>
+    <th>Фото</th>
   </tr>
   <tr>
     <td>ФИО</td>
     <td>Захаров Лев Юрьевич</td>
+    <td rowspan="4">
+      <img src="https://github.com/lzakharov/lzakharov.github.io/raw/master/assets/img/avatar.jpg">
+    </td>
   </tr>
   <tr>
     <td>Город</td>
@@ -23,8 +27,6 @@ title: Резюме
     <td>+7(951)0622048</td>
   </tr>
 </table>
-
-![Лев Захаров](https://github.com/lzakharov/lzakharov.github.io/raw/master/assets/img/avatar.jpg)
 
 ## Образование:
 
