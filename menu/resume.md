@@ -36,12 +36,21 @@ title: Резюме
 
 - Языки программирования:
   - Java (Maven, JUnit, Spring, Hibernate)
-  - Python (NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, Flask)
+  - Python 
+    - Web
+      - Django
+      - Django REST framework
+      - Flask
+    - ML
+      - SciPy (NumPy, Pandas, Matplotlib)
+      - Seaborn
+      - scikit-learn
   - JavaScript (ReactJS, Redux)
   - SQL
   - Небольшой опыт программирования на C (MPI, OpenMP) и Haskell
 - Инструменты разработки:
   - Git
+  - Jira
   - CI (Travis CI)
   - Heroku
   - Jupyter Notebook
@@ -58,6 +67,7 @@ title: Резюме
 - 2016 - инженер-программист GDC (ICL Services)
   - JavaScript, Java, PostgreSQL.
 - 2017 по сегодняшний день - преподаватель курсов от компании Яндекс. (<https://yandexlyceum.ru>)
+- 2018 по сегодняшний день - разработчик компании INNOVA GROUP. (<http://www.innovacompanies.com/>)
 
 ## Сертификаты, курсы
 
